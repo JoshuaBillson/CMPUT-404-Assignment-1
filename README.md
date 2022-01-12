@@ -14,4 +14,4 @@
 
 **Question 7:** There is no significant difference; both requests return a 200 code and a similar body.
 
-**Question 8:** There is no significant difference; both requests return a 200 code and a similar body.
+**Question 8:** https://raw.githubusercontent.com/JoshuaBillson/CMPUT-404-Assignment-1/main/script.py
